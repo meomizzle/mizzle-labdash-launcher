@@ -1,0 +1,37 @@
+﻿[
+    {
+        "name":  "putty-rpi01",
+        "path":  "C:\\Program Files\\PuTTY\\putty.exe",
+        "args":  "-ssh meo@192.168.1.252 -P 1986",
+        "key":  "putty-rpi01",
+        "url":  "labdash://open/putty-rpi01"
+    },
+    {
+        "name":  "putty",
+        "path":  "C:\\Program Files\\PuTTY\\putty.exe",
+        "args":  "",
+        "key":  "putty",
+        "url":  "labdash://open/putty"
+    },
+    {
+        "name":  "putty-rpi04",
+        "path":  "C:\\Program Files\\PuTTY\\putty.exe",
+        "args":  "-ssh meo@192.168.1.225 -P 1986",
+        "key":  "putty-rpi04",
+        "url":  "labdash://open/putty-rpi04"
+    },
+    {
+        "name":  "putty-rpi03",
+        "path":  "C:\\Program Files\\PuTTY\\putty.exe",
+        "args":  "-ssh meo@192.168.1.250 -P 1986",
+        "key":  "putty-rpi03",
+        "url":  "labdash://open/putty-rpi03"
+    },
+    {
+        "name":  "putty-rpi02",
+        "path":  "C:\\Program Files\\PuTTY\\putty.exe",
+        "args":  "-ssh meo@192.168.1.247 -P 1986",
+        "key":  "putty-rpi02",
+        "url":  "labdash://open/putty-rpi02"
+    }
+]

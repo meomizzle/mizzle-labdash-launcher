@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Notepad",
+    "path": "C:\\Windows\\System32\\notepad.exe",
+    "args": ""
+  },
+  {
+    "name": "Paint",
+    "path": "C:\\Windows\\System32\\mspaint.exe",
+    "args": ""
+  },
+  {
+    "name": "Google Chrome",
+    "path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "args": "--incognito"
+  }
+]

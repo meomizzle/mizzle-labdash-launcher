@@ -1,2 +1,2 @@
-# mizzle-labdash-validator
-App Validator For Lab Dash
+# mizzle-labdash-launcher
+Local App Validator For Lab Dash
